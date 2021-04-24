@@ -8,5 +8,6 @@
   - Update Weights
 
 ## GoogleColab Notebook List. 
+0. PyTorch Basic Syntax.
 1. Linear Regression using numpy and it's step by step conversion to PyTorch code.
 2. Linear Regression using PyTorch.
