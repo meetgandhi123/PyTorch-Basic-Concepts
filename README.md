@@ -19,3 +19,6 @@
 1. Linear Regression using numpy and it's step by step conversion to PyTorch code
 2. Linear Regression 
 3. Logistic Regression 
+4. Custom Dataset loading and creating dataset class
+5. Creating First Feed Forward NN and testing it on MNIST dataset
+6. Creating First CNN Model and testing it on CIFAR-10 dataset 
