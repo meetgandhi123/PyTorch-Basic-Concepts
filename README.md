@@ -22,3 +22,4 @@
 4. Custom Dataset loading and creating dataset class
 5. Creating First Feed Forward NN and testing it on MNIST dataset
 6. Creating First CNN Model and testing it on CIFAR-10 dataset 
+7. Saving and Loading models
